@@ -1,2 +1,1 @@
-# solutions-for-statistical-rethinking
-Solutions for Statistical Rethinking
+# Solutions for Statistical Rethinking
